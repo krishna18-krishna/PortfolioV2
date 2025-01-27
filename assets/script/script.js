@@ -1,3 +1,5 @@
+feather.replace();
+
 document.addEventListener('DOMContentLoaded', () => {
     const hamburger = document.querySelector('.hamburger');
     const navigation = document.querySelector('.navigation');
